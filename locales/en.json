@@ -1,0 +1,7 @@
+{
+    "triangle_interact": "Pick up",
+    "dialogenter": "**Controls:**  \nW - Forward  \nA - Left  \nS - Backward  \nD - Right  \nQ - Rotate Left  \nE - Rotate Right  \nSpace - Confirm  \nX - Cancel",
+    "dialogtitle": "Placing Emergency Triangle...",
+    "dialoginput1": "Please wait while you place the emergency triangle.",
+    "triangle_pickup": "Picking up"
+}
