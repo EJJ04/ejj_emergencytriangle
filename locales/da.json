@@ -1,1 +1,7 @@
-
+{
+    "triangle_interact": "Saml op",
+    "dialogenter": "**Kontroller:**  \nW - Fremad  \nA - Venstre  \nS - Bagud  \nD - Højre  \nQ - Drej Venstre  \nE - Drej Højre  \nSpace - Bekræft  \nX - Annuller",
+    "dialogtitle": "Placerer Skilt...",
+    "dialoginput1": "Vent venligst mens du placerer skiltet.",
+    "triangle_pickup": "Samler op"
+}
