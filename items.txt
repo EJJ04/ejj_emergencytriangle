@@ -1,0 +1,8 @@
+ox_inventory -> data -> items.lua
+
+	['emergencytriangle'] = {
+		label = 'Emergency Triangle',
+		weight = 150,
+		stack = false,
+		close = true,
+	},
